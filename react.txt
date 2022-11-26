@@ -20,18 +20,19 @@ https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-
 https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
 ===
 
-https://styled-components.com/docs/basics#installation
+
 ====
 npm install --save-dev prop-types
 npm install --save styled-components
+npm install modern-normalize
 ===
 
 
 
 
-
+https://styled-components.com/docs/basics#installation
 https://react-icons.github.io/
 https://mockapi.io/
-
+https://github.com/sindresorhus/modern-normalize
 
 
