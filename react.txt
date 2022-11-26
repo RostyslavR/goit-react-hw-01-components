@@ -20,6 +20,16 @@ https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-
 https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
 ===
 
+====
+npm install --save-dev prop-types
+===
+
+https://styled-components.com/docs/basics#installation
+
+
+
 https://react-icons.github.io/
+https://mockapi.io/
+
 
 

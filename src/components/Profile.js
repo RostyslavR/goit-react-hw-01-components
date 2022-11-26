@@ -1,3 +1,5 @@
+// import PropTypes from 'prop-types';
+
 export const Profile = ({
   user: {
     username,
@@ -32,3 +34,7 @@ export const Profile = ({
     </div>
   );
 };
+
+// Profile.propTypes = {
+//   username: PropTypes.string,
+// };
