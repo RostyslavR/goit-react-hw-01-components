@@ -1,11 +1,11 @@
 import { StatisticItem } from './StatisticItem';
 
-export const Statistics = ({ title, data }) => {
+export const Statistics = ({ title, statistics }) => {
   return (
     <section className="statistics">
       {title && <h2 className="title">{title}</h2>}
       <ul className="stat-list">
-        {data.map(item => (
+        {statistics.map(item => (
           <li className="item" key={item.id}>
             <StatisticItem item={item} />
           </li>
