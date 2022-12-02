@@ -7,7 +7,7 @@ import { Statistics } from './Statistics/Statistics';
 import { FriendList } from './FriendList/FriendList';
 import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 
-import { Container } from './App.styles';
+import { Container } from './App.styled';
 
 export const App = () => {
   return (
